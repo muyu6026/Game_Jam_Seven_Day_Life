@@ -4,7 +4,7 @@
 
 - **作者**：暮雨
 - **B站**：https://space.bilibili.com/3546750266640874
-- **GitHub**：muyu6026
+- **GitHub**：[muyu6026](https://github.com/muyu6026)
 
 ## 项目概述
 
