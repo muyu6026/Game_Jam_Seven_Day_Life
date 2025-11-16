@@ -18,7 +18,7 @@
 
 ### 开发环境
 - **编辑器**：星火编辑器 (Spark Editor)
-- **编程语言**：TypeScript (编译为Lua)
+- **编程语言**：TypeScript (编译为Lua) or 星火编辑器内置可视化触发器
 - **构建工具**：TypeScript-to-Lua (v1.10.0)
 - **UI框架**：基于组件的GUI系统
 
