@@ -1,0 +1,1 @@
+{"debug_settings":{"show_info_panel":true,"mute":false,"game_resolution_rate_index":3},"mainview_settings":{"editor_resolution_rate_index":2}}

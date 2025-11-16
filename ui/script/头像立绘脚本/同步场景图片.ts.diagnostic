@@ -1,0 +1,4 @@
+{"messageText":"Map.has is unsupported.","code":100029,"start":17666,"length":3,"category":1}
+{"messageText":"Only false and nil evaluate to 'false' in Lua, everything else is considered 'true'. Explicitly compare the value with ===.","code":100040,"start":17792,"length":4,"category":0}
+{"messageText":"Map.has is unsupported.","code":100029,"start":18201,"length":3,"category":1}
+{"messageText":"Map.has is unsupported.","code":100029,"start":19791,"length":3,"category":1}

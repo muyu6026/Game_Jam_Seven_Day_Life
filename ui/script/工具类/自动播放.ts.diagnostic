@@ -1,0 +1,1 @@
+{"messageText":"Only false and nil evaluate to 'false' in Lua, everything else is considered 'true'. Explicitly compare the value with ===.","code":100040,"start":8789,"length":9,"category":0}

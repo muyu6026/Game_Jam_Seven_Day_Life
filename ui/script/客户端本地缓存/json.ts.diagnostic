@@ -1,0 +1,2 @@
+{"messageText":"Unable to convert function with a 'this' parameter to function with no 'this'. To fix, wrap in an arrow function, or declare with 'this: void'.","code":100015,"start":520,"length":16,"category":1}
+{"messageText":"Unable to convert function with a 'this' parameter to function with no 'this'. To fix, wrap in an arrow function, or declare with 'this: void'.","code":100015,"start":743,"length":15,"category":1}

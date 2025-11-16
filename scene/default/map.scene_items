@@ -1,0 +1,11014 @@
+{
+	"TerrainInfo": [
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 128.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 384.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 640.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 896.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1152.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1408.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1664.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2176.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2432.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2688.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 2944.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3200.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3456.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3712.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 2688.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 2944.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 3200.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 3456.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 3712.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/ground/cracks_1_1_1_1_1_1_1_1",
+			"pos": {
+				"x": 3968.0,
+				"y": 3968.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 2,
+				"Right": 2,
+				"Top": 2,
+				"Left": 2
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		}
+	],
+	"StaticDecorationAttribute": null,
+	"LightMap": null
+}

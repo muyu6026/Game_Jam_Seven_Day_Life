@@ -1,0 +1,12 @@
+engineres/techniques/notexture.xml
+engineres/particle/common/techniques/diffunlitparticlealpha.xml
+engineres/particle/common/techniques/diffunlitmeshparticlealpha.xml
+engineres/techniques/diffunlit.xml
+shaders/blgl/uncompileddisplay/vs_display.glsl
+shaders/blgl/uncompileddisplay/ps_display.glsl
+engineres/particle/common/materials/alphamaterial.material
+engineres/particle/common/materials/alphamesh.material
+engineres/particle/common/materials/defaultmesh.material
+engineres/particle/common/materials/defaultmeshrgba.material
+engineres/particle/common/materials/defaultsprite.material
+engineres/particle/common/materials/empty.material
