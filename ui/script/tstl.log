@@ -1,0 +1,87 @@
+522.367300003767:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Trigger","Item","Timer","Buff","Skill","Player","TriggerParamTable","TriggerEvent","UnitGroup","Actor","ScreenPos","Target","EffectParam","EffectParamShared","YPRRotation","DataCache","Camera","Slot","Vector","Region","Riseletter","Line","ThirdOrderMatrix","CollisionFlags","Unit","Point","RegionRect","RegionCircle"],"globalModules":["coroutine","_G","log","base"]}
+2794.790600001812:	Loaded 0 plugins
+2796.006899982691:	Parsing project settings
+2806.4201999902725:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_validator.ts
+2810.4871999919415:	moduleName:
+2810.5097999870777:	validator
+2811.580799996853:	exportScope:
+2811.5943999886513:	true
+2911.5718999803066:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_validator.ts
+2943.793799996376:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/ts工具.ts
+2946.6374000012875:	moduleName:
+2946.652199983597:	p_nm2d
+2947.1962999999523:	exportScope:
+2947.205399990082:	true
+3112.043099999428:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/ts工具.ts
+3164.7004999816418:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/屎山优化器.ts
+3167.861599981785:	moduleName:
+3167.8756999969482:	p_nm2d
+3168.7532999813557:	exportScope:
+3168.7705000042915:	true
+3211.3941999971867:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/屎山优化器.ts
+3236.989299982786:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/自动播放.ts
+3238.2723999917507:	moduleName:
+3238.2870999872684:	p_nm2d
+3238.65340000391:	exportScope:
+3238.8130999803543:	true
+3293.583599984646:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/自动播放.ts
+3302.7522999942303:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步头像立绘.ts
+3305.1880999803543:	moduleName:
+3305.1977999806404:	p_nm2d
+3305.7775000035763:	exportScope:
+3305.7840000092983:	true
+3314.6579999923706:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步头像立绘.ts
+3328.1060999929905:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步场景图片.ts
+3329.0225000083447:	moduleName:
+3329.515699982643:	p_nm2d
+3330.4429000020027:	exportScope:
+3330.452499985695:	true
+3491.492300003767:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步场景图片.ts
+3520.370499998331:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/状态值类/状态值加减.ts
+3523.1694999933243:	moduleName:
+3523.1796000003815:	p_nm2d
+3523.6922000050545:	exportScope:
+3523.7001999914646:	true
+3526.108199983835:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/状态值类/状态值加减.ts
+3529.798999994993:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/客户端本地缓存/json.ts
+3530.5325999855995:	moduleName:
+3530.542199999094:	p_nm2d
+3531.0142999887466:	exportScope:
+3531.0196000039577:	true
+3544.522300004959:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/客户端本地缓存/json.ts
+3548.472799986601:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/序列化与反序列化/序列化与反序列化.ts
+3549.5225000083447:	moduleName:
+3549.5392000079155:	p_nm2d
+3550.281300008297:	exportScope:
+3550.290199995041:	true
+3572.6335999965668:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/序列化与反序列化/序列化与反序列化.ts
+3591.534399986267:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_module_main_1.ts
+3593.3628999888897:	moduleName:
+3593.378499984741:	p_nm2d
+3594.320199996233:	exportScope:
+3594.342999994755:	true
+3822.9564000070095:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_module_main_1.ts
+3871.8019999861717:	Constructing emit plan
+3872.833599984646:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_validator.ts
+3874.00079998374:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/ts工具.ts
+3875.160999983549:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/屎山优化器.ts
+3875.744800001383:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/自动播放.ts
+3876.176099985838:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步头像立绘.ts
+3876.518700003624:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步场景图片.ts
+3877.170800000429:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/状态值类/状态值加减.ts
+3877.6013000011444:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/客户端本地缓存/json.ts
+3878.107499986887:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/序列化与反序列化/序列化与反序列化.ts
+3878.5011000037193:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_module_main_1.ts
+3880.1665999889374:	Emitting output
+3880.5408000051975:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_validator.lua
+3881.6972999870777:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/ts工具.lua
+3883.0783999860287:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/屎山优化器.lua
+3883.949599981308:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/工具类/自动播放.lua
+3885.520199984312:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步头像立绘.lua
+3887.5313999950886:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/头像立绘脚本/同步场景图片.lua
+3889.8614000082016:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/状态值类/状态值加减.lua
+3895.89849999547:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/客户端本地缓存/json.lua
+3898.136000007391:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/序列化与反序列化/序列化与反序列化.lua
+3899.8463999927044:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/ui/script/trigger_module_main_1.lua
+3903.290899991989:	Emit finished!
+3975.3131999969482:	ts2lua 执行时间：3934 毫秒

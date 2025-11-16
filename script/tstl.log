@@ -1,0 +1,31 @@
+895.2621000111103:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Actor","Team","Timer","Snapshot","EffectParamShared","TriggerParamTable","Item","Region","ScreenPos","Target","UnitTable","EffectParam","Point","Mover","Unit","Buff","HealInstance","TriggerEvent","DamageInstance","Slot","Skill","Inventory","Player","Trigger","Line","UnitGroup","Sight","DataCache","AISearcher","ScoreCommitter","ScoreObjData","ScoreGetParam","UserID","ScoreData","ScoreSetParam","ScoreAddParam","ScoreMoneyData","ScoreListAddParam","ScoreListModifyParam","ScoreListDeleteParam","ScoreListData","ScoreMsgSendParam","ScoreMsgQueryParam","ScoreNameNewParam","ScoreNameSearchParam","ScoreChannelMsgData","ScoreGetRankListParam","ScoreGetUserRankParam","ScoreGetRankListData","ScoreGetUserRankData","ScoreGetRankTotalData","ScoreGetRankTotalParam","ScoreMsgData","ScoreListID","ScoreID","ScoreNameData","ScoreMsgID","ScoreMoneyParam","os","DateTime","UnitBuff","autotest_log","ScoreRankSetParam","ScoreRankAddParam","UnitPropertyBonus","SceneObject","Quest","QuestCondition","crop","ScoreCropData","Vector","ScoreClearParam","ScoreAddWithLimitParam","ScoreListQueryByUuidParam","Response","MatchInfo","MatchTeamID","PlayerSCEID","ThirdOrderMatrix","CollisionFlags","Force","ScoreListGetParam","FriendData","RegionRect","RegionCircle","Cast","ScoreAddWithHourLimitParam","ScoreAddWithDayLimitParam","ScoreAddWithWeekLimitParam","ScoreAddWithMonthLimitParam","ScoreAddWithYearLimitParam"],"globalModules":["coroutine","_G","log","base"]}
+3762.833600014448:	Loaded 0 plugins
+3764.0703999996185:	Parsing project settings
+3809.365999996662:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_validator.ts
+3813.9561000168324:	moduleName:
+3813.969999998808:	validator
+3814.7745000123978:	exportScope:
+3814.7840000092983:	true
+5069.414499998093:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_validator.ts
+5315.122200012207:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/服务端序列化与反序列化.ts
+5335.686599999666:	moduleName:
+5335.705799996853:	p_nm2d
+5336.640200018883:	exportScope:
+5336.654500007629:	true
+5377.32570001483:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/服务端序列化与反序列化.ts
+5401.171100020409:	Transforming E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_module_main_1.ts
+5403.757499992847:	moduleName:
+5403.782900005579:	p_nm2d
+5404.581699997187:	exportScope:
+5404.5956000089645:	true
+5465.359699994326:	Printing E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_module_main_1.ts
+5482.293799996376:	Constructing emit plan
+5483.227200001478:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_validator.ts
+5486.168000012636:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/服务端序列化与反序列化.ts
+5486.871199995279:	Resolving dependencies for E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_module_main_1.ts
+5488.391499996185:	Emitting output
+5489.3797000050545:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_validator.lua
+5494.081499993801:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/服务端序列化与反序列化.lua
+5495.5078999996185:	Emitting E:/星火/星火编辑器/Res/maps/Game_Jam_Seven_Day_Life/script/trigger_module_main_1.lua
+5498.189999997616:	Emit finished!
+6183.916700005531:	ts2lua 执行时间：5970 毫秒

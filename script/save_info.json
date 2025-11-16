@@ -1,0 +1,26 @@
+{
+    "defaultui":{
+        "time_stamp":5108884891.361200,
+        "version":0.900000
+    },
+    "lib_common_ai":{
+        "time_stamp":8375262613.087000,
+        "version":0.900000
+    },
+    "lib_control":{
+        "time_stamp":7424396277.789299,
+        "version":0.900000
+    },
+    "script":{
+        "time_stamp":633236481.208300,
+        "version":0.900000
+    },
+    "smallcard_get_items":{
+        "time_stamp":5109320841.369200,
+        "version":0.900000
+    },
+    "smallcard_mail":{
+        "time_stamp":2583310205.829800,
+        "version":0.900000
+    }
+}

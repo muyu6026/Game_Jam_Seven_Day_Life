@@ -1,0 +1,13 @@
+{"messageText":"属性“立绘”没有初始化表达式，且未在构造函数中明确赋值。","code":2564,"start":8895,"length":2,"category":1}
+{"messageText":"属性“头像”没有初始化表达式，且未在构造函数中明确赋值。","code":2564,"start":8935,"length":2,"category":1}
+{"messageText":"其声明类型不为 \"void\" 或 \"any\" 的函数必须返回值。","code":2355,"start":24780,"length":9,"category":1}
+{"messageText":"其声明类型不为 \"void\" 或 \"any\" 的函数必须返回值。","code":2355,"start":25074,"length":9,"category":1}
+{"messageText":{"messageText":"不能将类型“Actor | undefined”分配给类型“Actor”。","category":1,"code":2322,"next":[{"messageText":"不能将类型“undefined”分配给类型“Actor”。","category":1,"code":2322}]},"code":2322,"start":29507,"length":13,"category":1}
+{"messageText":"Unable to convert function with no 'this' parameter to function '检查执行的代码' with 'this'. To fix, wrap in an arrow function, or declare with 'this: any'.","code":100016,"start":32349,"length":4,"category":1}
+{"messageText":{"messageText":"不能将类型“Actor | undefined”分配给类型“Actor”。","category":1,"code":2322,"next":[{"messageText":"不能将类型“undefined”分配给类型“Actor”。","category":1,"code":2322}]},"code":2322,"start":42495,"length":13,"category":1}
+{"messageText":"箭头函数不能包含 \"this\" 参数。","code":2730,"start":45964,"length":10,"category":1}
+{"messageText":"箭头函数不能包含 \"this\" 参数。","code":2730,"start":47498,"length":10,"category":1}
+{"messageText":{"messageText":"不能将类型“LuaTable<string, string> | undefined”分配给类型“LuaTable<string, any>”。","category":1,"code":2322,"next":[{"messageText":"不能将类型“undefined”分配给类型“LuaTable<string, any>”。","category":1,"code":2322}]},"code":2322,"start":47886,"length":2,"category":1}
+{"messageText":"箭头函数不能包含 \"this\" 参数。","code":2730,"start":51569,"length":10,"category":1}
+{"messageText":"箭头函数不能包含 \"this\" 参数。","code":2730,"start":54672,"length":10,"category":1}
+{"messageText":"箭头函数不能包含 \"this\" 参数。","code":2730,"start":54997,"length":10,"category":1}
