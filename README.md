@@ -65,34 +65,6 @@ Game_Jam_Seven_Day_Life/
 - **日历界面**：七天进度选择与回顾
 - **存档界面**：游戏存档管理
 
-## 开发指南
-
-### 环境设置
-
-1. 安装Node.js依赖：
-```bash
-cd script
-npm install
-cd ../ui/script
-npm install
-```
-
-2. 构建TypeScript代码：
-```bash
-cd script
-npm run build
-cd ../ui/script
-npm run build
-```
-
-3. 开发模式（自动监听文件变化）：
-```bash
-cd script
-npm run dev
-cd ../ui/script
-npm run dev
-```
-
 ### 添加新内容
 
 #### 添加新的游戏状态
@@ -138,14 +110,6 @@ npm run dev
 - 文本资源：`ui/script/obj/localization/`
 - 图片资源：`ui/image/`
 
-## 贡献指南
-
-1. Fork 项目仓库
-2. 创建功能分支 (`git checkout -b feature/新功能`)
-3. 提交更改 (`git commit -am '添加新功能'`)
-4. 推送到分支 (`git push origin feature/新功能`)
-5. 创建 Pull Request
-
 ## 许可证
 
 本项目仅用于学习和研究目的。
@@ -153,8 +117,8 @@ npm run dev
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 项目Issues页面
-- 游戏开发者社区
+- 暮雨QQ号：3975956136
+- QQ讨论群：1034875885
 
 ---
 
